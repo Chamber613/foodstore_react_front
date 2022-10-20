@@ -5,8 +5,11 @@
 This project is a front-end web application for a fictional fast-food restaurant called Foodstore, developed with ReactJS. It allows users to browse the menu, place orders, and track their status.
 
 <p align="center">
-  <img src="public/foodStore/home01.png" width="350" title="home01">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="public/foodStore/home01.png" width="550" title="home01" alt="Home01">
+  <img src="public/foodStore/home02.png" width="550" title="home01" alt="Home01">
+  <img src="public/foodStore/home03.png" width="550" title="home01" alt="Home01">
+  <img src="public/foodStore/shop01.png" width="550" title="home01" alt="Home01">
+  <img src="public/foodStore/blog01.png" width="550" title="home01" alt="Home01">
 </p>
 
 ### Features

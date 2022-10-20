@@ -1,8 +1,8 @@
-# FriedShop : A e-commerce website built with ReactJS
+# FoodStore : A e-commerce website built with ReactJS
 
 ### Description
 
-This project is a front-end web application for a fictional fast-food restaurant called Friedshop, developed with ReactJS. It allows users to browse the menu, place orders, and track their status.
+This project is a front-end web application for a fictional fast-food restaurant called Foodstore, developed with ReactJS. It allows users to browse the menu, place orders, and track their status.
 
 ### Features
 
